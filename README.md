@@ -1,2 +1,5 @@
 # Lonegine
-Pure Javascript game engine
+Game engine written purely in Javascript, no Canvas. (pretty slow)
+
+# Dependencies
+- jQuery
